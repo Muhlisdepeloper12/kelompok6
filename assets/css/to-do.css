@@ -5,9 +5,9 @@
 }
 
 .task-panel {
-	background: #fff;
+	background: rgb(155, 102, 102);
 	text-align: left;
-	box-shadow: 0px 3px 2px #aab2bd;
+	box-shadow: 0px 3px 2px #91afd8;
 	margin: 5px;
 }
 
@@ -38,7 +38,7 @@
 .tasks-widget .task-list > li {
   position:relative;
   padding:10px 5px;
-  border-bottom:1px dashed #eaeaea;
+  border-bottom:1px dashed #835e5e;
 }
 
 .tasks-widget .task-list  li.last-line {
@@ -71,7 +71,7 @@
 
 .tasks-widget .task-list  li.task-done .task-title-sp  {
   text-decoration:line-through;
-  color: #bbbbbb;
+  color: #755d5d;
 }
 
 .tasks-widget .task-list  li.task-done  {

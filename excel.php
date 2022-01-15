@@ -38,11 +38,11 @@
     <div class="modal-view">
         <h3 style="text-align:center;"> 
                 <?php if(!empty($_GET['cari'])){ ?>
-                    Data Laporan Penjualan <?= $bulan_tes[$_GET['bln']];?> <?= $_GET['thn'];?>
+                    Data Laporan hasil masuk <?= $bulan_tes[$_GET['bln']];?> <?= $_GET['thn'];?>
                 <?php }elseif(!empty($_GET['hari'])){?>
-                    Data Laporan Penjualan <?= $_GET['tgl'];?>
+                    Data Laporan hasil masuk <?= $_GET['tgl'];?>
                 <?php }else{?>
-                    Data Laporan Penjualan <?= $bulan_tes[date('m')];?> <?= date('Y');?>
+                    Data Laporan hasil masuk <?= $bulan_tes[date('m')];?> <?= date('Y');?>
                 <?php }?>
         </h3>
         <table border="1" width="100%" cellpadding="3" cellspacing="4">

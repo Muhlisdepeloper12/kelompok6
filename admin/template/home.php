@@ -38,7 +38,7 @@
 					  <div class="col-md-3">
                       		<div class="panel panel-primary">
                       			<div class="panel-heading">
-						  			<h5><i class="fa fa-desktop"></i> barang muhlis</h5>
+						  			<h5><i class="fa fa-desktop"></i> Jenis barang</h5>
                       			</div>
                       			<div class="panel-body">
 									<center><h1><?php echo number_format($hasil_barang);?></h1></center>
@@ -52,7 +52,7 @@
                       	<div class="col-md-3">
                       		<div class="panel panel-success">
                       			<div class="panel-heading">
-						  			<h5><i class="fa fa-desktop"></i> Stok toko muhlis</h5>
+						  			<h5><i class="fa fa-desktop"></i> Stok toko</h5>
                       			</div>
                       			<div class="panel-body">
 									<center><h1><?php echo number_format($stok['jml']);?></h1></center>

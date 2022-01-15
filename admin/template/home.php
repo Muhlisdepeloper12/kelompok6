@@ -44,7 +44,7 @@
 									<center><h1><?php echo number_format($hasil_barang);?></h1></center>
 								</div>
 								<div class="panel-footer">
-									<h4 style="font-size:15px;font-weight:700;"><a href='index.php?page=barang'>Tabel Barang <i class='fa fa-angle-double-right'></i></a></h4>
+									<h4 style="font-size:20px;font-weight:700;"><a href='index.php?page=barang'>Tabel Barang <i class='fa fa-angle-double-right'></i></a></h4>
 								</div>
 	                      	</div><!--/grey-panel -->
                       	</div><!-- /col-md-3-->
@@ -58,7 +58,7 @@
 									<center><h1><?php echo number_format($stok['jml']);?></h1></center>
 								</div>
 								<div class="panel-footer">
-									<h4 style="font-size:15px;font-weight:700;"><a href='index.php?page=barang'>Tabel Barang  <i class='fa fa-angle-double-right'></i></a></h4>
+									<h4 style="font-size:25px;font-weight:700;"><a href='index.php?page=barang'>Tabel Barang  <i class='fa fa-angle-double-right'></i></a></h4>
 								</div>
 	                      	</div><!--/grey-panel -->
                       	</div><!-- /col-md-3-->
@@ -72,7 +72,7 @@
 									<center><h1><?php echo number_format($jual['stok']);?></h1></center>
 								</div>
 								<div class="panel-footer">
-									<h4 style="font-size:15px;font-weight:700;font-weight:700;"><a href='index.php?page=laporan'>Tabel laporan  <i class='fa fa-angle-double-right'></i></a></h4>
+									<h4 style="font-size:30px;font-weight:700;font-weight:700;"><a href='index.php?page=laporan'>Tabel laporan  <i class='fa fa-angle-double-right'></i></a></h4>
 								</div>
 	                      	</div><!--/grey-panel -->
                       	</div><!-- /col-md-3-->
